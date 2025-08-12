@@ -1,6 +1,5 @@
-# Unicode Emoji List (v16.0)
-
-_Generated from official emoji-test.txt_
+# Full Unicode Emoji List (v16.0)
+_Generated from the official Unicode standards site's "Full Emoji List, v16.0"_
 
 ## Smileys & Emotion
 
