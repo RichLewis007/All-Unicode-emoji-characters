@@ -1,5 +1,17 @@
 # All Unicode emoji characters
 
-👋🏻 Hello!
+# 👋🏻 Hello!
 
-All emoji Unicode characters gathered from the [official Unicode standard site](https://www.unicode.org/emoji/charts/full-emoji-list.html), in Markdown format grouped by category &amp; subgroup.
+This is a reference to *ALL* emoji characters that are defined in the Unicode standard for use everywhere. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. 
+
+Having it here on GitHub is super helpful because every emoji looks **different** on every system! They look one way on iPhones, another way on Android, another on the desktop in a browser on MacOS, and still another way in Windows!
+
+**All** emoji Unicode characters are here, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
+<!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->
+
+Star this repo, and you can come back to it on any platform you are interested in, to see what the emoji's you are using look like.
+
+
+Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look ip emojis in the future.
+
+Thanks! I hope this reference is useful for you.
