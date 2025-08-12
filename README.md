@@ -11,7 +11,7 @@ Having it here on GitHub is super useful because every emoji looks **different**
 **All** emoji Unicode characters are here, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
 <!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->
 
-📌Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look ip emojis in the future.
+📌 Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look up emojis in the future.
 
 Thanks! I hope this reference is useful for you. 👍👍🏻👍🏼👍🏽👍🏾👍🏿  
 
