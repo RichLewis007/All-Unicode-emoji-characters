@@ -14,3 +14,4 @@ Having it here on GitHub is super useful because every emoji looks **different**
 Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look ip emojis in the future.
 
 Thanks! I hope this reference is useful for you.
+😀😃😄😁😆😅🤣😂🙂🙃🫠😉😊😇
