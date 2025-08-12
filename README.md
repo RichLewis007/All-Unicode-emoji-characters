@@ -2,7 +2,7 @@
 
 # 👋🏻 Hello!
 
-This is a reference to *ALL* emoji characters that are defined in the Unicode standard for use everywhere. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. 
+[This](All-official-Unicode-emoji-characters-grouped-by-category.md) is a reference to *ALL* emoji characters that are defined in the Unicode standard for use everywhere. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. 
 
 Having it here on GitHub is super helpful because every emoji looks **different** on every system! They look one way on iPhones, another way on Android, another on the desktop in a browser on MacOS, and still another way in Windows!
 
