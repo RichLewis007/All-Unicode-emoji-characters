@@ -1,4 +1,4 @@
-# All Unicode emoji characters
+# Collection of all Unicode emoji characters for your reference and use
 
 # 👋🏻 Hello!
 
