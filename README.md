@@ -2,9 +2,9 @@
 
 # 👋👋🏻👋🏼 Hello! 👋🏽👋🏾👋🏿
 
-This is a ✏️reference to *ALL* emoji characters that are defined in the Unicode standard for use everywhere. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. 
+This is a reference to **ALL** emoji characters that are defined in the Unicode standard for use nearly everywhere text is entered in modern computer systems. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. 
 
-Having it here on GitHub is super useful because every emoji looks **different** on every system! They look one way on iPhones, another way on Android, another on the desktop in a browser on MacOS, and still another way in Windows!
+Having it here on GitHub is super useful because every emoji graphic looks very **different** on each different operating system (OS)! The emoji graphics are independently designed by each OS vendor, so they appear one way on iPhones, but another way on Android, another on the desktop in a browser on MacOS, and still another way in Windows and yes another way in a given Linux distribution!
 
 ⭐ **Star this repo**, and you can come back to it on any platform you are interested in, to see what all of the emoji's you are using or are considering to use look like. The emoji images created by the different companies for use in their products sometimes look vastly different from the same emoji on another product, and this difference has been known to cause confusion and problems!
 
