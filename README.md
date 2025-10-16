@@ -3,7 +3,7 @@
 
 # 👋👋🏻👋🏼 Hello! 👋🏽👋🏾👋🏿
 
-This is a reference to **ALL** emoji characters that are defined in the Unicode standard for use nearly everywhere text is entered in modern computer systems. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. I've included in this one reference all of the newest **🫸🏽skin color variations🫷🏽** for human related emojis.
+This is a reference to **ALL** emoji characters that are defined in the Unicode standard for use nearly everywhere text is entered in modern computer systems. This reference is really helpful to look up emojis to express different things on GitHub, emails and beyond. I've included in this one reference all of the newest **skin color variations** for human related emojis.
 
 Having it here on GitHub is super useful because every emoji graphic looks very **different** on each different operating system (OS)! The emoji graphics are independently designed by each OS vendor, so they appear one way on iPhones, but another way on Android, another on the desktop in a browser on MacOS, and still another way in Windows and yes another way in a given Linux distribution!
 
