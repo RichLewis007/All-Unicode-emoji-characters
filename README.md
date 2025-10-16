@@ -1,4 +1,5 @@
-# Collection of all Unicode emoji characters for your reference and use
+# Collection of ALL Unicode emoji characters
+..for your reference and use
 
 # 👋👋🏻👋🏼 Hello! 👋🏽👋🏾👋🏿
 
