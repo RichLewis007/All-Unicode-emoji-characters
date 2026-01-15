@@ -18,7 +18,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, SMILING
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😀  | 😃  | 😄  | 😁  | 😆  | 😅  | 🤣  | 😂  | 🙂  | 🙃  |
 | 🫠   | 😉  | 😊  | 😇  |     |     |     |     |     |     |
@@ -30,7 +30,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, AFFECTION
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🥰  | 😍  | 🤩  | 😘  | 😗  | ☺   | ☺   | 😚  | 😙  | 🥲  |
 
@@ -41,7 +41,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, TONGUE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😋  | 😛  | 😜  | 🤪  | 😝  | 🤑  |     |     |     |     |
 
@@ -52,7 +52,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, HAND
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🤗  | 🤭  | 🫢   | 🫣   | 🤫  | 🤔  | 🫡   |     |     |     |
 
@@ -63,7 +63,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, NEUTRAL, SKEPTICAL
 
-|     |     |     |     |     |     |       |     |     |       |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | ----- | --- | --- | ----- |
 | 🤐  | 🤨  | 😐  | 😑  | 😶  | 🫥   | 😶‍🌫️    | 😶  | 🌫   | 😏    |
 | 😒  | 🙄  | 😬  | 😮‍💨  | 🤥  | 🫨   | 🙂‍↔️ | 🙂  | ↔   | 🙂‍↕️ |
@@ -76,7 +76,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, SLEEPY
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😌  | 😔  | 😪  | 🤤  | 😴  | 🫩   |     |     |     |     |
 
@@ -87,7 +87,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, UNWELL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😷  | 🤒  | 🤕  | 🤢  | 🤮  | 🤧  | 🥵  | 🥶  | 🥴  | 😵  |
 | 😵‍💫  | 🤯  |     |     |     |     |     |     |     |     |
@@ -99,7 +99,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, HAT
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🤠  | 🥳  | 🥸  |     |     |     |     |     |     |     |
 
@@ -110,7 +110,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, GLASSES
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😎  | 🤓  | 🧐  |     |     |     |     |     |     |     |
 
@@ -121,7 +121,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, CONCERNED
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😕  | 🫤   | 😟  | 🙁  | ☹   | ☹   | 😮  | 😯  | 😲  | 😳  |
 | 🥺  | 🥹   | 😦  | 😧  | 😨  | 😰  | 😥  | 😢  | 😭  | 😱  |
@@ -134,7 +134,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, NEGATIVE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😤  | 😡  | 😠  | 🤬  | 😈  | 👿  | 💀  | ☠   | ☠   |     |
 
@@ -145,7 +145,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / FACE, COSTUME
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💩  | 🤡  | 👹  | 👺  | 👻  | 👽  | 👾  | 🤖  |     |     |
 
@@ -156,7 +156,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / CAT, FACE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 😺  | 😸  | 😹  | 😻  | 😼  | 😽  | 🙀  | 😿  | 😾  |     |
 
@@ -167,7 +167,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / MONKEY, FACE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🙈  | 🙉  | 🙊  |     |     |     |     |     |     |     |
 
@@ -178,7 +178,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / HEART
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💌  | 💘  | 💝  | 💖  | 💗  | 💓  | 💞  | 💕  | 💟  | ❣   |
 | ❣   | 💔  | ❤️‍🔥  | ❤   | 🔥  | ❤️‍🩹  | ❤   | 🩹  | ❤   | ❤   |
@@ -192,7 +192,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Smileys & Emotion / EMOTION
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💋  | 💯  | 💢  | 💥  | 💫  | 💦  | 💨  | 🕳   | 🕳   | 💬  |
 | 👁️‍🗨️  | 👁   | 🗨   | 👁   | 🗨   | 👁   | 🗨   | 🗨   | 🗨   | 🗯   |
@@ -205,7 +205,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / HAND, FINGERS, OPEN
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👋  | 👋  | 👋  | 👋  | 👋  | 👋  | 🤚  | 🤚  | 🤚  | 🤚  |
 | 🤚  | 🤚  | 🖐  | 🖐  | 🖐  | 🖐  | 🖐  | 🖐  | 🖐  | ✋  |
@@ -222,7 +222,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / HAND, FINGERS, PARTIAL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👌  | 👌  | 👌  | 👌  | 👌  | 👌  | 🤌  | 🤌  | 🤌  | 🤌  |
 | 🤌  | 🤌  | 🤏  | 🤏  | 🤏  | 🤏  | 🤏  | 🤏  | ✌  | ✌  |
@@ -238,7 +238,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / HAND, SINGLE, FINGER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👈  | 👈  | 👈  | 👈  | 👈  | 👈  | 👉  | 👉  | 👉  | 👉  |
 | 👉  | 👉  | 👆  | 👆  | 👆  | 👆  | 👆  | 👆  | 🖕  | 🖕  |
@@ -253,7 +253,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / HAND, FINGERS, CLOSED
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👍  | 👍  | 👍  | 👍  | 👍  | 👍  | 👎  | 👎  | 👎  | 👎  |
 | 👎  | 👎  | ✊  | ✊  | ✊  | ✊  | ✊  | ✊  | 👊  | 👊  |
@@ -267,7 +267,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / HANDS
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👏  | 👏  | 👏  | 👏  | 👏  | 👏  | 🙌  | 🙌  | 🙌  | 🙌  |
 | 🙌  | 🙌  | 🫶   | 🫶   | 🫶   | 🫶   | 🫶   | 🫶   | 👐  | 👐  |
@@ -286,7 +286,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / HAND, PROP
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ✍  | ✍  | ✍  | ✍  | ✍  | ✍  | ✍  | 💅  | 💅  | 💅  |
 | 💅  | 💅  | 💅  | 🤳  | 🤳  | 🤳  | 🤳  | 🤳  | 🤳  |     |
@@ -298,7 +298,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / BODY, PARTS
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💪  | 💪  | 💪  | 💪  | 💪  | 💪  | 🦾  | 🦿  | 🦵  | 🦵  |
 | 🦵  | 🦵  | 🦵  | 🦵  | 🦶  | 🦶  | 🦶  | 🦶  | 🦶  | 🦶  |
@@ -313,7 +313,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👶  | 👶  | 👶  | 👶  | 👶  | 👶  | 🧒  | 🧒  | 🧒  | 🧒  |
 | 🧒  | 🧒  | 👦  | 👦  | 👦  | 👦  | 👦  | 👦  | 👧  | 👧  |
@@ -353,7 +353,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, GESTURE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🙍  | 🙍  | 🙍  | 🙍  | 🙍  | 🙍  | 🙍‍♂️  | 🙍  | ♂   | 🙍  |
 | ♂   | 🙍  | ♂   | 🙍  | ♂   | 🙍  | ♂   | 🙍  | ♂   | 🙍  |
@@ -415,7 +415,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, ROLE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🧑‍⚕️  | 🧑  | ⚕   | 🧑  | ⚕   | 🧑  | ⚕   | 🧑  | ⚕   | 🧑  |
 | ⚕   | 🧑  | ⚕   | 🧑  | ⚕   | 🧑  | ⚕   | 🧑  | ⚕   | 🧑  |
@@ -536,7 +536,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, FANTASY
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👼  | 👼  | 👼  | 👼  | 👼  | 👼  | 🎅  | 🎅  | 🎅  | 🎅  |
 | 🎅  | 🎅  | 🤶  | 🤶  | 🤶  | 🤶  | 🤶  | 🤶  | 🧑‍🎄  | 🧑  |
@@ -587,7 +587,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, ACTIVITY
 
-|       |       |       |       |       |       |       |       |       |       |
+| . | . | . | . | . | . | . | . | . | . |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 💆    | 💆    | 💆    | 💆    | 💆    | 💆    | 💆‍♂️    | 💆    | ♂     | 💆    |
 | ♂     | 💆    | ♂     | 💆    | ♂     | 💆    | ♂     | 💆    | ♂     | 💆    |
@@ -730,7 +730,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, SPORT
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🤺  | 🏇  | 🏇  | 🏇  | 🏇  | 🏇  | 🏇  | ⛷   | ⛷   | 🏂  |
 | 🏂  | 🏂  | 🏂  | 🏂  | 🏂  | 🏌  | 🏌  | 🏌  | 🏌  | 🏌  |
@@ -808,7 +808,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, RESTING
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🧘  | 🧘  | 🧘  | 🧘  | 🧘  | 🧘  | 🧘‍♂️  | 🧘  | ♂   | 🧘  |
 | ♂   | 🧘  | ♂   | 🧘  | ♂   | 🧘  | ♂   | 🧘  | ♂   | 🧘  |
@@ -825,7 +825,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / FAMILY
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🧑‍🤝‍🧑  | 🧑  | 🤝  | 🧑  | 🧑  | 🤝  | 🧑  | 🧑  | 🤝  | 🧑  |
 | 🧑  | 🤝  | 🧑  | 🧑  | 🤝  | 🧑  | 🧑  | 🤝  | 🧑  | 🧑  |
@@ -1002,7 +1002,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### People & Body / PERSON, SYMBOL
 
-|     |     |     |     |     |     |          |             |       |          |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | -------- | ----------- | ----- | -------- |
 | 🗣   | 🗣   | 👤  | 👥  | 🫂  | 👪  | 🧑‍🧑‍🧒 | 🧑‍🧑‍🧒‍🧒 | 🧑‍🧒 | 🧑‍🧒‍🧒 |
 | 👣  | 🫆   |     |     |     |     |          |             |       |          |
@@ -1016,7 +1016,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / ANIMAL, MAMMAL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🐵  | 🐒  | 🦍  | 🦧  | 🐶  | 🐕  | 🦮  | 🐕‍🦺  | 🐩  | 🐺  |
 | 🦊  | 🦝  | 🐱  | 🐈  | 🐈‍⬛  | 🦁  | 🐯  | 🐅  | 🐆  | 🐴  |
@@ -1033,7 +1033,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / ANIMAL, BIRD
 
-|       |     |       |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | ----- | --- | ----- | --- | --- | --- | --- | --- | --- | --- |
 | 🦃    | 🐔  | 🐓    | 🐣  | 🐤  | 🐥  | 🐦  | 🐧  | 🕊   | 🕊   |
 | 🦅    | 🦆  | 🦢    | 🦉  | 🦤  | 🪶  | 🦩  | 🦚  | 🦜  | 🪽   |
@@ -1046,7 +1046,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / ANIMAL, AMPHIBIAN
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🐸  |     |     |     |     |     |     |     |     |     |
 
@@ -1057,7 +1057,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / ANIMAL, REPTILE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🐊  | 🐢  | 🦎  | 🐍  | 🐲  | 🐉  | 🦕  | 🦖  |     |     |
 
@@ -1068,7 +1068,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / ANIMAL, MARINE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🐳  | 🐋  | 🐬  | 🦭  | 🐟  | 🐠  | 🐡  | 🦈  | 🐙  | 🐚  |
 | 🪸   | 🪼   | 🦀  | 🦞  | 🦐  | 🦑  | 🦪  |     |     |     |
@@ -1080,7 +1080,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / ANIMAL, BUG
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🐌  | 🦋  | 🐛  | 🐜  | 🐝  | 🪲  | 🐞  | 🦗  | 🪳  | 🕷   |
 | 🕷   | 🕸   | 🕸   | 🦂  | 🦟  | 🪰  | 🪱  | 🦠  |     |     |
@@ -1092,7 +1092,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / PLANT, FLOWER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💐  | 🌸  | 💮  | 🪷   | 🏵   | 🏵   | 🌹  | 🥀  | 🌺  | 🌻  |
 | 🌼  | 🌷  | 🪻   |     |     |     |     |     |     |     |
@@ -1104,7 +1104,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Animals & Nature / PLANT, OTHER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🌱  | 🪴  | 🌲  | 🌳  | 🌴  | 🌵  | 🌾  | 🌿  | ☘   | ☘   |
 | 🍀  | 🍁  | 🍂  | 🍃  | 🪹   | 🪺   | 🍄  | 🪾   |     |     |
@@ -1116,7 +1116,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / FOOD, FRUIT
 
-|     |     |     |     |     |       |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | ----- | --- | --- | --- | --- |
 | 🍇  | 🍈  | 🍉  | 🍊  | 🍋  | 🍋‍🟩 | 🍌  | 🍍  | 🥭  | 🍎  |
 | 🍏  | 🍐  | 🍑  | 🍒  | 🍓  | 🫐    | 🥝  | 🍅  | 🫒  | 🥥  |
@@ -1128,7 +1128,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / FOOD, VEGETABLE
 
-|     |     |     |     |     |     |     |     |       |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- |
 | 🥑  | 🍆  | 🥔  | 🥕  | 🌽  | 🌶   | 🌶   | 🫑  | 🥒    | 🥬  |
 | 🥦  | 🧄  | 🧅  | 🥜  | 🫘   | 🌰  | 🫚   | 🫛   | 🍄‍🟫 | 🫜   |
@@ -1140,7 +1140,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / FOOD, PREPARED
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🍞  | 🥐  | 🥖  | 🫓  | 🥨  | 🥯  | 🥞  | 🧇  | 🧀  | 🍖  |
 | 🍗  | 🥩  | 🥓  | 🍔  | 🍟  | 🍕  | 🌭  | 🥪  | 🌮  | 🌯  |
@@ -1154,7 +1154,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / FOOD, ASIAN
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🍱  | 🍘  | 🍙  | 🍚  | 🍛  | 🍜  | 🍝  | 🍠  | 🍢  | 🍣  |
 | 🍤  | 🍥  | 🥮  | 🍡  | 🥟  | 🥠  | 🥡  |     |     |     |
@@ -1166,7 +1166,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / FOOD, SWEET
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🍦  | 🍧  | 🍨  | 🍩  | 🍪  | 🎂  | 🍰  | 🧁  | 🥧  | 🍫  |
 | 🍬  | 🍭  | 🍮  | 🍯  |     |     |     |     |     |     |
@@ -1178,7 +1178,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / DRINK
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🍼  | 🥛  | ☕  | 🫖  | 🍵  | 🍶  | 🍾  | 🍷  | 🍸  | 🍹  |
 | 🍺  | 🍻  | 🥂  | 🥃  | 🫗   | 🥤  | 🧋  | 🧃  | 🧉  | 🧊  |
@@ -1190,7 +1190,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Food & Drink / DISHWARE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🥢  | 🍽   | 🍽   | 🍴  | 🥄  | 🔪  | 🫙   | 🏺  |     |     |
 
@@ -1201,7 +1201,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / PLACE, MAP
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🌍  | 🌎  | 🌏  | 🌐  | 🗺   | 🗺   | 🗾  | 🧭  |     |     |
 
@@ -1212,7 +1212,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / PLACE, GEOGRAPHIC
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🏔   | 🏔   | ⛰   | ⛰   | 🌋  | 🗻  | 🏕   | 🏕   | 🏖   | 🏖   |
 | 🏜   | 🏜   | 🏝   | 🏝   | 🏞   | 🏞   |     |     |     |     |
@@ -1224,7 +1224,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / PLACE, BUILDING
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🏟   | 🏟   | 🏛   | 🏛   | 🏗   | 🏗   | 🧱  | 🪨  | 🪵  | 🛖  |
 | 🏘   | 🏘   | 🏚   | 🏚   | 🏠  | 🏡  | 🏢  | 🏣  | 🏤  | 🏥  |
@@ -1238,7 +1238,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / PLACE, RELIGIOUS
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⛪  | 🕌  | 🛕  | 🕍  | ⛩   | ⛩   | 🕋  |     |     |     |
 
@@ -1249,7 +1249,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / PLACE, OTHER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⛲  | ⛺  | 🌁  | 🌃  | 🏙   | 🏙   | 🌄  | 🌅  | 🌆  | 🌇  |
 | 🌉  | ♨   | ♨   | 🎠  | 🛝   | 🎡  | 🎢  | 💈  | 🎪  |     |
@@ -1261,7 +1261,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / TRANSPORT, GROUND
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🚂  | 🚃  | 🚄  | 🚅  | 🚆  | 🚇  | 🚈  | 🚉  | 🚊  | 🚝  |
 | 🚞  | 🚋  | 🚌  | 🚍  | 🚎  | 🚐  | 🚑  | 🚒  | 🚓  | 🚔  |
@@ -1277,7 +1277,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / TRANSPORT, WATER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⚓  | 🛟   | ⛵  | 🛶  | 🚤  | 🛳   | 🛳   | ⛴   | ⛴   | 🛥   |
 | 🛥   | 🚢  |     |     |     |     |     |     |     |     |
@@ -1289,7 +1289,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / TRANSPORT, AIR
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ✈   | ✈   | 🛩   | 🛩   | 🛫  | 🛬  | 🪂  | 💺  | 🚁  | 🚟  |
 | 🚠  | 🚡  | 🛰   | 🛰   | 🚀  | 🛸  |     |     |     |     |
@@ -1301,7 +1301,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / HOTEL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🛎   | 🛎   | 🧳  |     |     |     |     |     |     |     |
 
@@ -1312,7 +1312,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / TIME
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⌛  | ⏳  | ⌚  | ⏰  | ⏱   | ⏱   | ⏲   | ⏲   | 🕰   | 🕰   |
 | 🕛  | 🕧  | 🕐  | 🕜  | 🕑  | 🕝  | 🕒  | 🕞  | 🕓  | 🕟  |
@@ -1326,7 +1326,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Travel & Places / SKY & WEATHER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🌑  | 🌒  | 🌓  | 🌔  | 🌕  | 🌖  | 🌗  | 🌘  | 🌙  | 🌚  |
 | 🌛  | 🌜  | 🌡   | 🌡   | ☀   | ☀   | 🌝  | 🌞  | 🪐  | ⭐  |
@@ -1343,7 +1343,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Activities / EVENT
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎃  | 🎄  | 🎆  | 🎇  | 🧨  | ✨  | 🎈  | 🎉  | 🎊  | 🎋  |
 | 🎍  | 🎎  | 🎏  | 🎐  | 🎑  | 🧧  | 🎀  | 🎁  | 🎗   | 🎗   |
@@ -1356,7 +1356,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Activities / AWARD, MEDAL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎖   | 🎖   | 🏆  | 🏅  | 🥇  | 🥈  | 🥉  |     |     |     |
 
@@ -1367,7 +1367,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Activities / SPORT
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⚽  | ⚾  | 🥎  | 🏀  | 🏐  | 🏈  | 🏉  | 🎾  | 🥏  | 🎳  |
 | 🏏  | 🏑  | 🏒  | 🥍  | 🏓  | 🏸  | 🥊  | 🥋  | 🥅  | ⛳  |
@@ -1380,7 +1380,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Activities / GAME
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎯  | 🪀  | 🪁  | 🔫  | 🎱  | 🔮  | 🪄  | 🎮  | 🕹   | 🕹   |
 | 🎰  | 🎲  | 🧩  | 🧸  | 🪅  | 🪩   | 🪆  | ♠   | ♠   | ♥   |
@@ -1393,7 +1393,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Activities / ARTS & CRAFTS
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎭  | 🖼   | 🖼   | 🎨  | 🧵  | 🪡  | 🧶  | 🪢  |     |     |
 
@@ -1404,7 +1404,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / CLOTHING
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 👓  | 🕶   | 🕶   | 🥽  | 🥼  | 🦺  | 👔  | 👕  | 👖  | 🧣  |
 | 🧤  | 🧥  | 🧦  | 👗  | 👘  | 🥻  | 🩱  | 🩲  | 🩳  | 👙  |
@@ -1419,7 +1419,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / SOUND
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🔇  | 🔈  | 🔉  | 🔊  | 📢  | 📣  | 📯  | 🔔  | 🔕  |     |
 
@@ -1430,7 +1430,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / MUSIC
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎼  | 🎵  | 🎶  | 🎙   | 🎙   | 🎚   | 🎚   | 🎛   | 🎛   | 🎤  |
 | 🎧  | 📻  |     |     |     |     |     |     |     |     |
@@ -1442,7 +1442,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / MUSICAL, INSTRUMENT
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎷  | 🪗  | 🎸  | 🎹  | 🎺  | 🎻  | 🪕  | 🥁  | 🪘  | 🪇   |
 | 🪈   | 🪉   |     |     |     |     |     |     |     |     |
@@ -1454,7 +1454,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / PHONE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 📱  | 📲  | ☎   | ☎   | 📞  | 📟  | 📠  |     |     |     |
 
@@ -1465,7 +1465,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / COMPUTER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🔋  | 🪫   | 🔌  | 💻  | 🖥   | 🖥   | 🖨   | 🖨   | ⌨   | ⌨   |
 | 🖱   | 🖱   | 🖲   | 🖲   | 💽  | 💾  | 💿  | 📀  | 🧮  |     |
@@ -1477,7 +1477,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / LIGHT & VIDEO
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🎥  | 🎞   | 🎞   | 📽   | 📽   | 🎬  | 📺  | 📷  | 📸  | 📹  |
 | 📼  | 🔍  | 🔎  | 🕯   | 🕯   | 💡  | 🔦  | 🏮  | 🪔  |     |
@@ -1489,7 +1489,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / BOOK, PAPER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 📔  | 📕  | 📖  | 📗  | 📘  | 📙  | 📚  | 📓  | 📒  | 📃  |
 | 📜  | 📄  | 📰  | 🗞   | 🗞   | 📑  | 🔖  | 🏷   | 🏷   |     |
@@ -1501,7 +1501,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / MONEY
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💰  | 🪙  | 💴  | 💵  | 💶  | 💷  | 💸  | 💳  | 🧾  | 💹  |
 
@@ -1512,7 +1512,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / MAIL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ✉   | ✉   | 📧  | 📨  | 📩  | 📤  | 📥  | 📦  | 📫  | 📪  |
 | 📬  | 📭  | 📮  | 🗳   | 🗳   |     |     |     |     |     |
@@ -1524,7 +1524,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / WRITING
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ✏   | ✏   | ✒   | ✒   | 🖋   | 🖋   | 🖊   | 🖊   | 🖌   | 🖌   |
 | 🖍   | 🖍   | 📝  |     |     |     |     |     |     |     |
@@ -1536,7 +1536,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / OFFICE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💼  | 📁  | 📂  | 🗂   | 🗂   | 📅  | 📆  | 🗒   | 🗒   | 🗓   |
 | 🗓   | 📇  | 📈  | 📉  | 📊  | 📋  | 📌  | 📍  | 📎  | 🖇   |
@@ -1550,7 +1550,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / LOCK
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🔒  | 🔓  | 🔏  | 🔐  | 🔑  | 🗝   | 🗝   |     |     |     |
 
@@ -1561,7 +1561,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / TOOL
 
-|     |     |     |     |     |     |     |     |     |       |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ----- |
 | 🔨  | 🪓  | ⛏   | ⛏   | ⚒   | ⚒   | 🛠   | 🛠   | 🗡   | 🗡     |
 | ⚔   | ⚔   | 💣  | 🪃  | 🏹  | 🛡   | 🛡   | 🪚  | 🔧  | 🪛    |
@@ -1575,7 +1575,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / SCIENCE
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⚗   | ⚗   | 🧪  | 🧫  | 🧬  | 🔬  | 🔭  | 📡  |     |     |
 
@@ -1586,7 +1586,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / MEDICAL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💉  | 🩸  | 💊  | 🩹  | 🩼   | 🩺  | 🩻   |     |     |     |
 
@@ -1597,7 +1597,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / HOUSEHOLD
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🚪  | 🛗  | 🪞  | 🪟  | 🛏   | 🛏   | 🛋   | 🛋   | 🪑  | 🚽  |
 | 🪠  | 🚿  | 🛁  | 🪤  | 🪒  | 🧴  | 🧷  | 🧹  | 🧺  | 🧻  |
@@ -1610,7 +1610,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Objects / OTHER, OBJECT
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🚬  | ⚰   | ⚰   | 🪦  | ⚱   | ⚱   | 🧿  | 🪬   | 🗿  | 🪧  |
 | 🪪   |     |     |     |     |     |     |     |     |     |
@@ -1622,7 +1622,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / TRANSPORT, SIGN
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🏧  | 🚮  | 🚰  | ♿  | 🚹  | 🚺  | 🚻  | 🚼  | 🚾  | 🛂  |
 | 🛃  | 🛄  | 🛅  |     |     |     |     |     |     |     |
@@ -1634,7 +1634,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / WARNING
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⚠   | ⚠   | 🚸  | ⛔  | 🚫  | 🚳  | 🚭  | 🚯  | 🚱  | 🚷  |
 | 📵  | 🔞  | ☢   | ☢   | ☣   | ☣   |     |     |     |     |
@@ -1646,7 +1646,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / ARROW
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⬆   | ⬆   | ↗   | ↗   | ➡   | ➡   | ↘   | ↘   | ⬇   | ⬇   |
 | ↙   | ↙   | ⬅   | ⬅   | ↖   | ↖   | ↕   | ↕   | ↔   | ↔   |
@@ -1660,7 +1660,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / RELIGION
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🛐  | ⚛   | ⚛   | 🕉   | 🕉   | ✡   | ✡   | ☸   | ☸   | ☯   |
 | ☯   | ✝   | ✝   | ☦   | ☦   | ☪   | ☪   | ☮   | ☮   | 🕎  |
@@ -1673,7 +1673,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / ZODIAC
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ♈  | ♉  | ♊  | ♋  | ♌  | ♍  | ♎  | ♏  | ♐  | ♑  |
 | ♒  | ♓  | ⛎  |     |     |     |     |     |     |     |
@@ -1685,7 +1685,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / AV, SYMBOL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🔀  | 🔁  | 🔂  | ▶   | ▶   | ⏩  | ⏭   | ⏭   | ⏯   | ⏯   |
 | ◀   | ◀   | ⏪  | ⏮   | ⏮   | 🔼  | ⏫  | 🔽  | ⏬  | ⏸   |
@@ -1699,7 +1699,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / GENDER
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ♀   | ♀   | ♂   | ♂   | ⚧   | ⚧   |     |     |     |     |
 
@@ -1710,7 +1710,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / MATH
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ✖   | ✖   | ➕  | ➖  | ➗  | 🟰   | ♾   | ♾   |     |     |
 
@@ -1721,7 +1721,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / PUNCTUATION
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ‼   | ‼   | ⁉   | ⁉   | ❓  | ❔  | ❕  | ❗  | 〰  | 〰  |
 
@@ -1732,7 +1732,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / CURRENCY
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 💱  | 💲  |     |     |     |     |     |     |     |     |
 
@@ -1743,7 +1743,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / OTHER, SYMBOL
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ⚕   | ⚕   | ♻   | ♻   | ⚜   | ⚜   | 🔱  | 📛  | 🔰  | ⭕  |
 | ✅  | ☑   | ☑   | ✔   | ✔   | ❌  | ❎  | ➰  | ➿  | 〽  |
@@ -1761,7 +1761,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Symbols / GEOMETRIC
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🔴  | 🟠  | 🟡  | 🟢  | 🔵  | 🟣  | 🟤  | ⚫  | ⚪  | 🟥  |
 | 🟧  | 🟨  | 🟩  | 🟦  | 🟪  | 🟫  | ⬛  | ⬜  | ◼   | ◼   |
@@ -1775,7 +1775,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Flags / FLAG
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🏁  | 🚩  | 🎌  | 🏴  | 🏳   | 🏳   | 🏳️‍🌈  | 🏳   | 🌈  | 🏳️‍⚧️  |
 | 🏳   | ⚧   | 🏳   | ⚧   | 🏳   | ⚧   | 🏴‍☠️  | 🏴  | ☠   |     |
@@ -1787,7 +1787,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Flags / COUNTRY, FLAG
 
-|     |      |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🇦🇨  | 🇦🇩   | 🇦🇪  | 🇦🇫  | 🇦🇬  | 🇦🇮  | 🇦🇱  | 🇦🇲  | 🇦🇴  | 🇦🇶  |
 | 🇦🇷  | 🇦🇸   | 🇦🇹  | 🇦🇺  | 🇦🇼  | 🇦🇽  | 🇦🇿  | 🇧🇦  | 🇧🇧  | 🇧🇩  |
@@ -1823,7 +1823,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 ### Flags / SUBDIVISION, FLAG
 
-|     |     |     |     |     |     |     |     |     |     |
+| . | . | . | . | . | . | . | . | . | . |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿  | 🏴󠁧󠁢󠁳󠁣󠁴󠁿  | 🏴󠁧󠁢󠁷󠁬󠁳󠁿  |     |     |     |     |     |     |     |
 
