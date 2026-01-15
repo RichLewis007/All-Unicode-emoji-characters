@@ -12,6 +12,10 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 **[Here is the complete list](All-official-Unicode-emoji-characters-grouped-by-category.md)** 👈🏼
 
+| Find emojis fast (use "Find in page" on this doc)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chrome / Edge (Windows, Linux)**: Press `Ctrl + F`, type a word like "smile", "heart", or the emoji name. • **Chrome / Edge (macOS)**: Press `Cmd + F`. • **Firefox (Windows/Linux)**: Press `Ctrl + F`. • **Firefox (macOS)**: Press `Cmd + F`. • **Safari (macOS)**: Press `Cmd + F` (or `Cmd + Option + F` to open the Find bar). • **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page". • **Chrome (Android)**: Tap the menu (three dots) then "Find in page". |
+
 **All** emoji Unicode characters are here, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
 
 <!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->

@@ -6,6 +6,12 @@ _Generated from the official Unicode standards site's "Full Emoji List, v16.0"_
 
 **Curator: [Rich Lewis](https://RichLewis.com) - GitHub: [@RichLewis007](https://github.com/RichLewis007)**
 
+| Find emojis fast (use "Find in page" on this doc)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chrome / Edge (Windows, Linux)**: Press `Ctrl + F`, type a word like "smile", "heart", or the emoji name. • **Chrome / Edge (macOS)**: Press `Cmd + F`. • **Firefox (Windows/Linux)**: Press `Ctrl + F`. • **Firefox (macOS)**: Press `Cmd + F`. • **Safari (macOS)**: Press `Cmd + F` (or `Cmd + Option + F` to open the Find bar). • **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page". • **Chrome (Android)**: Tap the menu (three dots) then "Find in page". |
+
+---
+
 ## Smileys & Emotion
 
 ### face-smiling
