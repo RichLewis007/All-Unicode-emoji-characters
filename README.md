@@ -31,6 +31,8 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 <!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->
 
+---
+
 📌 Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look up emojis in the future.
 
 👍🏿👍🏾👍🏽 Thanks! I hope this reference is useful for you. 👍🏼👍🏻👍
