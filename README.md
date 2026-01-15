@@ -15,8 +15,8 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 **All** emoji Unicode characters are there, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
 
-| Find emojis fast (use "Find in page" on this doc)                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+Find emojis fast (use "Find in page" on this doc):
+
 | Browser / OS                                                                                                                                                                                                                            | Find in page                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (Windows, Linux)** | Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name |
