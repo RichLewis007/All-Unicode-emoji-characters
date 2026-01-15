@@ -1,0 +1,17 @@
+local/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
