@@ -15,6 +15,8 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 **All** emoji Unicode characters are there, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
 
+---
+
 Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 | Browser / OS                                                                                                                                                                                                                            | Find in page                                                                               |
