@@ -57,3 +57,24 @@ All content below is dummy text.
 | adipiscing elit, sed do eiusmod tempor.      |
 +----------------------------------------------+
 </pre>
+
+## 8) Keyboard key tag examples
+
+Use HTML <kbd> tags to style keys:
+
+<kbd>Ctrl</kbd> + <kbd>C</kbd> • <kbd>Ctrl</kbd> + <kbd>V</kbd> • <kbd>Cmd</kbd> + <kbd>F</kbd> • <kbd>Option</kbd> + <kbd>F</kbd> • <kbd>Shift</kbd> + <kbd>Tab</kbd> • <kbd>Esc</kbd>
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
