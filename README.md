@@ -13,18 +13,27 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 <!-- <p align="center">**[Here is the complete list](All-official-Unicode-emoji-characters-grouped-by-category.md)** 👈🏼</p> -->
 <p align="center"><a href="https://github.com/RichLewis007/All-Unicode-emoji-characters/blob/main/All-official-Unicode-emoji-characters-grouped-by-category.md"><b>👉🏽 Here is the complete list 👈🏼</b></a></p>
 
-**All** emoji Unicode characters are here, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
+**All** emoji Unicode characters are there, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
 
-| Find emojis fast (use "Find in page" on this doc) |
-| ------------------------------------------------- |
+| Find emojis fast (use "Find in page" on this doc)                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (Windows, Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name |
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>                                                                 |
+| <img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (Windows/Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>                                                                                                                                                             |
+| <img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>                                                                                                                                                                      |
+| <img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>                                                                                                                                                                                |
+| <img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page"                                                                                                                                                                     |
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> **Chrome (Android)**: Tap the menu (three dots) then "Find in page"                                                                                                                                                              |
 
-| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (Windows, Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name
-<img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>
-<img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (Windows/Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>
-<img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>
-<img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>
-<img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page"
-<img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> **Chrome (Android)**: Tap the menu (three dots) then "Find in page" |
+| Browser / OS | Find in page |
+| --- | --- |
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (Windows, Linux)** | Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name |
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (macOS)** | Press <kbd>Cmd</kbd> + <kbd>F</kbd> |
+| <img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (Windows/Linux)** | Press <kbd>Ctrl</kbd> + <kbd>F</kbd> |
+| <img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (macOS)** | Press <kbd>Cmd</kbd> + <kbd>F</kbd> |
+| <img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (macOS)** | Press <kbd>Cmd</kbd> + <kbd>F</kbd> |
+| <img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (iOS/iPadOS)** | Tap the Share button, then "Find on Page" |
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> **Chrome (Android)** | Tap the menu (three dots) then "Find in page" |
 
 <!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->
 
