@@ -1,5 +1,6 @@
 # Full Unicode Emoji List (v16.0)
-## Organization method: Grouped by categories
+
+## Organization method: Grouped by category and subgroup
 
 _Generated from the official Unicode standards site's "Full Emoji List, v16.0"_
 
