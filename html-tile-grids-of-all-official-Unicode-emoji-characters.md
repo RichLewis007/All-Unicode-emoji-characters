@@ -5,6 +5,17 @@ _Generated from the official Unicode standards site's "Full Emoji List, v16.0"_
 
 **Curator: [Rich Lewis](https://RichLewis.com) - GitHub: [@RichLewis007](https://github.com/RichLewis007)**
 
+Find emojis fast by using the "Find in page" hotkeys when viewing the list:
+
+| OS                 | Browser                              | Find in page                                                                               |
+| ------------------ | ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Windows, Linux** | **Chrome / Firefox / Edge**          | Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name |
+| **macOS**          | **Chrome / Firefox / Edge / Safari** | Press <kbd>Cmd</kbd> + <kbd>F</kbd>                                                        |
+| **iOS/iPadOS**     | **Safari**                           | Tap the Share button, then "Find on Page"                                                  |
+| **Android**        | **Chrome**                           | Tap the menu (three dots) then "Find in page"                                              |
+
+---
+
 ### Smileys & Emotion / face-smiling
 <table><tbody>
 <tr>
