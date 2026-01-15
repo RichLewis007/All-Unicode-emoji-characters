@@ -1,4 +1,5 @@
 # Collection of ALL Unicode emoji characters
+
 ..for your reference and use
 
 # 👋👋🏻👋🏼 Hello! 👋🏽👋🏾👋🏿
@@ -12,10 +13,13 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 **[Here is the complete list](All-official-Unicode-emoji-characters-grouped-by-category.md)** 👈🏼
 
 **All** emoji Unicode characters are here, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
+
 <!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->
 
 📌 Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look up emojis in the future.
 
-Thanks! I hope this reference is useful for you. 👍👍🏻👍🏼👍🏽👍🏾👍🏿  
+Thanks! I hope this reference is useful for you. 👍👍🏻👍🏼👍🏽👍🏾👍🏿
+
+- [Rich Lewis](https://RichLewis.com) - GitHub: [@RichLewis007](https://github.com/RichLewis007)
 
 🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪🟤🟫⚫⬛⚪⬜🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪🟤🟫⚫⬛⚪⬜🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪
