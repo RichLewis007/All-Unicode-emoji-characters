@@ -35,7 +35,7 @@ Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
 📌 Be sure to ⭐ **star this repo** so you can find it again! That'll help you to find it to look up emojis in the future.
 
-👍🏿👍🏾👍🏽 Thanks! I hope this reference is useful for you. 👍🏼👍🏻👍
+👍🏾👍🏿👍🏽 Thanks! I hope this reference is useful to you. 👍🏼👍🏻👍
 
 - [Rich Lewis](https://RichLewis.com) - GitHub: [@RichLewis007](https://github.com/RichLewis007)
 
