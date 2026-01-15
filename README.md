@@ -10,14 +10,11 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 ⭐ **Star this repo**, and you can come back to it on any platform you are interested in, to see what all of the emoji's you are using or are considering to use look like. The emoji images created by the different companies for use in their products sometimes look vastly different from the same emoji on another product, and this difference has been known to cause confusion and problems!
 
+<!-- <p align="center">**[Here is the complete list](All-official-Unicode-emoji-characters-grouped-by-category.md)** 👈🏼</p> -->
+<p align="center"><a href="https://github.com/RichLewis007/All-Unicode-emoji-characters/blob/main/All-official-Unicode-emoji-characters-grouped-by-category.md"><b>Here is the complete list 👈🏼</b></a></p>
 
-<pre>
-+----------------------------------------------+
-| **[Here is the complete list](All-official-Unicode-emoji-characters-grouped-by-category.md)** 👈🏼         |
-+----------------------------------------------+
-</pre>
-
-| Find emojis fast (use "Find in page" on this doc)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Find emojis fast (use "Find in page" on this doc) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Chrome / Edge (Windows, Linux)**: Press `Ctrl + F`, type a word like "smile", "heart", or the emoji name. • **Chrome / Edge (macOS)**: Press `Cmd + F`. • **Firefox (Windows/Linux)**: Press `Ctrl + F`. • **Firefox (macOS)**: Press `Cmd + F`. • **Safari (macOS)**: Press `Cmd + F` (or `Cmd + Option + F` to open the Find bar). • **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page". • **Chrome (Android)**: Tap the menu (three dots) then "Find in page". |
 
