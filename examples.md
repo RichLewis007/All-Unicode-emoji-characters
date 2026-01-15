@@ -78,3 +78,24 @@ Use HTML <kbd> tags to style keys:
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+<blockquote> (block quotes) asdfasdf/blockquote>
+
+> # Foo
+> bar
+> baz
+
+># Foo
+>bar
+> baz
+
+   > # Foo
+   > bar
+ > baz
+
+     > # Foo
+    > bar
+    > baz
+    
+
+<p>Text on the left <img align="right" src="link/to/the/picture"></p>
