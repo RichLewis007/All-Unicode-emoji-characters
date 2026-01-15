@@ -19,12 +19,12 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 Find emojis fast by using the "Find in page" hotkeys when viewing the list:
 
-| Browser / OS                                 | Find in page                                                                               |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Chrome / Firefox / Edge (Windows, Linux)** | Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name |
-| **Chrome / Firefox / Edge / Safari (macOS)** | Press <kbd>Cmd</kbd> + <kbd>F</kbd>                                                        |
-| **Safari (iOS/iPadOS)**                      | Tap the Share button, then "Find on Page"                                                  |
-| **Chrome (Android)**                         | Tap the menu (three dots) then "Find in page"                                              |
+| OS                 | Browser                              | Find in page                                                                               |
+| ------------------ | ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Windows, Linux** | **Chrome / Firefox / Edge**          | Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name |
+| **macOS**          | **Chrome / Firefox / Edge / Safari** | Press <kbd>Cmd</kbd> + <kbd>F</kbd>                                                        |
+| **iOS/iPadOS**     | **Safari**                           | Tap the Share button, then "Find on Page"                                                  |
+| **Android**        | **Chrome**                           | Tap the menu (three dots) then "Find in page"                                              |
 
 ---
 
