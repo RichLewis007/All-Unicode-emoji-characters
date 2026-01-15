@@ -15,9 +15,16 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 **All** emoji Unicode characters are here, gathered from the **official Unicode standards site**, then put in Markdown format and grouped by category and by subgroup.
 
-| Find emojis fast (use "Find in page" on this doc)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Chrome / Edge (Windows, Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name. • **Chrome / Edge (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>. • **Firefox (Windows/Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>. • **Firefox (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>. • **Safari (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd> (or <kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>F</kbd> to open the Find bar). • **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page". • **Chrome (Android)**: Tap the menu (three dots) then "Find in page". |
+| Find emojis fast (use "Find in page" on this doc) |
+| ------------------------------------------------- |
+
+| <img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (Windows, Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>, type a word like "smile", "heart", or the emoji name
+<img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> <img src="assets/browser-icons/simple-icons/microsoftedge.svg" width="16" height="16" alt="Edge"> **Chrome / Edge (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>
+<img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (Windows/Linux)**: Press <kbd>Ctrl</kbd> + <kbd>F</kbd>
+<img src="assets/browser-icons/simple-icons/firefoxbrowser.svg" width="16" height="16" alt="Firefox"> **Firefox (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>
+<img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (macOS)**: Press <kbd>Cmd</kbd> + <kbd>F</kbd>
+<img src="assets/browser-icons/simple-icons/safari.svg" width="16" height="16" alt="Safari"> **Safari (iOS/iPadOS)**: Tap the Share button, then "Find on Page"
+<img src="assets/browser-icons/simple-icons/googlechrome.svg" width="16" height="16" alt="Chrome"> **Chrome (Android)**: Tap the menu (three dots) then "Find in page" |
 
 <!-- [official Unicode standards site](https://www.unicode.org/emoji/charts/full-emoji-list.html) -->
 
