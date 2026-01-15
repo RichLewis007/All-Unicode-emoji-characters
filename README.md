@@ -22,4 +22,4 @@ Having it here on GitHub is super useful because every emoji graphic looks very 
 
 - [Rich Lewis](https://RichLewis.com) - GitHub: [@RichLewis007](https://github.com/RichLewis007)
 
-🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪🟤🟫⚫⬛⚪⬜🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪🟤🟫⚫⬛⚪⬜🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣
+🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪🟤🟫🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣🟪🟤🟫🔴🟥🟠🟧🟡🟨🟢🟩🔵🟦🟣
